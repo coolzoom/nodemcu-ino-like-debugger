@@ -1,0 +1,53 @@
+C:\Users\LiXiaohai\AppData\Local\Temporary Projects\SerialPortElf\bin\Debug\SerialPortElf.exe
+C:\Users\LiXiaohai\AppData\Local\Temporary Projects\SerialPortElf\bin\Debug\SerialPortElf.pdb
+C:\Users\LiXiaohai\AppData\Local\Temporary Projects\SerialPortElf\bin\Debug\SerialPortElf.xml
+C:\Users\LiXiaohai\AppData\Local\Temporary Projects\SerialPortElf\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiXiaohai\AppData\Local\Temporary Projects\SerialPortElf\obj\Debug\SerialPortElf.frmMain.resources
+C:\Users\LiXiaohai\AppData\Local\Temporary Projects\SerialPortElf\obj\Debug\SerialPortElf.Resources.resources
+C:\Users\LiXiaohai\AppData\Local\Temporary Projects\SerialPortElf\obj\Debug\SerialPortElf.vbproj.GenerateResource.Cache
+C:\Users\LiXiaohai\AppData\Local\Temporary Projects\SerialPortElf\obj\Debug\SerialPortElf.exe
+C:\Users\LiXiaohai\AppData\Local\Temporary Projects\SerialPortElf\obj\Debug\SerialPortElf.xml
+C:\Users\LiXiaohai\AppData\Local\Temporary Projects\SerialPortElf\obj\Debug\SerialPortElf.pdb
+C:\Users\LiXiaohai\Desktop\Temp\DotNet\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.exe
+C:\Users\LiXiaohai\Desktop\Temp\DotNet\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.xml
+C:\Users\LiXiaohai\Desktop\Temp\DotNet\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.pdb
+C:\Users\LiXiaohai\Desktop\Temp\DotNet\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.exe
+C:\Users\LiXiaohai\Desktop\Temp\DotNet\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.pdb
+C:\Users\LiXiaohai\Desktop\Temp\DotNet\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.xml
+C:\Users\LiXiaohai\Desktop\Temp\DotNet\SerialPortElf\SerialPortElf\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiXiaohai\Desktop\Temp\DotNet\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.frmMain.resources
+C:\Users\LiXiaohai\Desktop\Temp\DotNet\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.Resources.resources
+C:\Users\LiXiaohai\Desktop\Temp\DotNet\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.vbproj.GenerateResource.Cache
+C:\Users\zhao\Desktop\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.exe
+C:\Users\zhao\Desktop\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.xml
+C:\Users\zhao\Desktop\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.pdb
+C:\Users\zhao\Desktop\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.exe
+C:\Users\zhao\Desktop\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.pdb
+C:\Users\zhao\Desktop\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.xml
+C:\Users\zhao\Desktop\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.frmMain.resources
+C:\Users\zhao\Desktop\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.Resources.resources
+C:\Users\zhao\Desktop\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.vbproj.GenerateResource.Cache
+D:\DOC_sync\1_US\20150112-0216\Source Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.exe
+D:\DOC_sync\1_US\20150112-0216\Source Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.xml
+D:\DOC_sync\1_US\20150112-0216\Source Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.pdb
+D:\DOC_sync\1_US\20150112-0216 MTSC_MTFremont_SEM\Source Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.exe
+D:\DOC_sync\1_US\20150112-0216 MTSC_MTFremont_SEM\Source Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.xml
+D:\DOC_sync\1_US\20150112-0216 MTSC_MTFremont_SEM\Source Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.pdb
+D:\DOC_sync\1_US\20150112-0216 MTSC_MTFremont_SEM\Source Code\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.exe
+D:\DOC_sync\1_US\20150112-0216 MTSC_MTFremont_SEM\Source Code\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.pdb
+D:\DOC_sync\1_US\20150112-0216 MTSC_MTFremont_SEM\Source Code\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.xml
+D:\DOC_sync\1_US\20150112-0216 MTSC_MTFremont_SEM\Source Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.frmMain.resources
+D:\DOC_sync\1_US\20150112-0216 MTSC_MTFremont_SEM\Source Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.Resources.resources
+D:\DOC_sync\1_US\20150112-0216 MTSC_MTFremont_SEM\Source Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.vbproj.GenerateResource.Cache
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\VBSource Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.exe
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\VBSource Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.xml
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\VBSource Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.pdb
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\VBSource Code\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.exe
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\VBSource Code\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.pdb
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\VBSource Code\SerialPortElf\SerialPortElf\bin\Debug\SerialPortElf.xml
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\VBSource Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.frmMain.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\VBSource Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.Resources.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\VBSource Code\SerialPortElf\SerialPortElf\obj\Debug\SerialPortElf.vbproj.GenerateResource.Cache
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\SerialPortElf.exe
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\SerialPortElf.xml
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\SerialPortElf.pdb

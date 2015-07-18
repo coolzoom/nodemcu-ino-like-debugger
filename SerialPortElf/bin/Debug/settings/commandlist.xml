@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LIST>
+  <LIST>
+    <Field1>1</Field1>
+    <Field2>1</Field2>
+    <Field3>1</Field3>
+    <Field4>1</Field4>
+    <Field5>1</Field5>
+  </LIST>
+  <LIST>
+    <Field1>2</Field1>
+    <Field2>1</Field2>
+    <Field3>2</Field3>
+    <Field4>1</Field4>
+    <Field5>1</Field5>
+  </LIST>
+  <LIST>
+    <Field1>wifiStart</Field1>
+    <Field2>lib\wifi</Field2>
+    <Field3>MODE</Field3>
+    <Field4>SSID</Field4>
+    <Field5>PASSWORD</Field5>
+  </LIST>
+</LIST>
