@@ -4,7 +4,7 @@ so i end up with just the debugger.
 This is a small lua script debugger for NodeMCU firmware, can also be used as a serial debugger.
 this is just an Arduino-like clean interface, no codes inside use Arduino core. 
 ###A simple lua Serial debugger for NodeMCU
-Build on VS 2013 Express(https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx)<br />
+Build on VS 2015 community(https://www.visualstudio.com/)<br />
 
 ###Node MCU is a lua based firmware for wifi-soc esp8266
 Tencent QQ group: 309957875<br />
