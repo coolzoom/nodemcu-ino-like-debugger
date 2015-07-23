@@ -1,0 +1,55 @@
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\bin\Debug\Nodeino.exe
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\bin\Debug\Nodeino.pdb
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\bin\Debug\Nodeino.xml
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\bin\Debug\en-US\Nodeino.resources.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\bin\Debug\sn\Nodeino.resources.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\bin\Debug\zh-Hans\Nodeino.resources.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\bin\Debug\zh\Nodeino.resources.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\Nodeino.frmMain.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\Nodeino.Resources.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\Nodeino.frmMain.en-US.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\Nodeino.frmMain.sn.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\Nodeino.frmMain.zh-Hans.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\Nodeino.frmMain.zh.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\nodeino.vbproj.GenerateResource.Cache
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\en-US\Nodeino.resources.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\sn\Nodeino.resources.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\zh-Hans\Nodeino.resources.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\zh\Nodeino.resources.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\Nodeino.exe
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\Nodeino.xml
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\Nodeino.pdb
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\bin\Debug\Nodeino.exe.config
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\Nodeino.frmMainContainer.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\obj\Debug\Nodeino.frmCommandList.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\bin\Debug\Storm.TextEditor.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK\SerialPortElf\bin\Debug\Storm.TabControl.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\bin\Debug\Nodeino.exe.config
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\bin\Debug\Nodeino.exe
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\bin\Debug\Nodeino.pdb
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\bin\Debug\Nodeino.xml
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\bin\Debug\Storm.TabControl.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\bin\Debug\Storm.TextEditor.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\obj\Debug\Nodeino.frmMain.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\obj\Debug\Nodeino.Resources.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\obj\Debug\Nodeino.frmCommandList.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\obj\Debug\nodeino.vbproj.GenerateResource.Cache
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\obj\Debug\Nodeino.exe
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\obj\Debug\Nodeino.xml
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\obj\Debug\Nodeino.pdb
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150712 OK - No Tab\SerialPortElf\obj\Debug\nodeino.vbprojResolveAssemblyReference.cache
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\bin\Debug\Nodeino.exe.config
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\obj\Debug\Nodeino.exe
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\obj\Debug\Nodeino.xml
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\obj\Debug\Nodeino.pdb
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\bin\Debug\Nodeino.exe
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\bin\Debug\Nodeino.pdb
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\bin\Debug\Nodeino.xml
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\bin\Debug\Storm.TabControl.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\bin\Debug\Storm.TextEditor.dll
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\obj\Debug\nodeino.vbprojResolveAssemblyReference.cache
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\obj\Debug\Nodeino.frmMain.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\obj\Debug\Nodeino.Resources.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\obj\Debug\Nodeino.frmCommandList.resources
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\obj\Debug\nodeino.vbproj.GenerateResource.Cache
+D:\DOC_sync\1_Project_Design\20150710 ESP8266\0IDEMING\20150718 OK git\SerialPortElf\obj\Debug\Nodeino.AboutBox1.resources
